@@ -1,0 +1,5 @@
+<button [class.clickable] = "_stateService.state.values[row][column] === '-'"
+[class.not-clickable] = "_stateService.state.values[row][column] !== '-'"
+[class.cubs] = "_stateService.state.values[row][column] === '0'"
+[class.sox] = "_stateService.state.values[row][column] === 'X'"
+(click)="_handleSquareClick()">-</button>

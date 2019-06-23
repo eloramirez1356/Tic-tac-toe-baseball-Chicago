@@ -1,0 +1,26 @@
+button {
+    height:100px;
+    width:100px;
+}
+
+.clickable{
+    cursor: pointer;
+}
+
+.not-clickable{
+    cursor: not-allowed;
+}
+
+.cubs{
+    background-image: url(/assets/cubs.png);
+    background-size: 95px 95px;
+    background-repeat: no-repeat;
+    color: transparent;
+}
+
+.sox{
+    background-image: url(/assets/whiteSox.jpeg);
+    background-size: 95px 95px;
+    background-repeat: no-repeat;
+    color: transparent;
+}
