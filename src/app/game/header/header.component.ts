@@ -8,7 +8,7 @@ import { StateService } from './../state.service';
 })
 export class HeaderComponent implements OnInit {
 
-  private _stateService: StateService;
+  public _stateService: StateService;
 
   constructor(stateService:StateService) {
     this._stateService = stateService;

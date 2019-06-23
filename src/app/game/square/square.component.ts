@@ -11,7 +11,7 @@ export class SquareComponent implements OnInit {
   @Input() row: number;
   @Input() column: number; 
 
-  private _stateService:StateService;
+  public _stateService:StateService;
 
 
   constructor(stateService:StateService) {

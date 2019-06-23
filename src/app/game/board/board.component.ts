@@ -8,7 +8,7 @@ import { StateService } from './../state.service';
 })
 export class BoardComponent implements OnInit {
 
-  private _values: string[][] = [
+  public _values: string[][] = [
     ['_', '_', '_'],
     ['_', '_', '_'],
     ['_', '_', '_']
