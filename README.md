@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Tictactoe
+# Tic-tac-toe-baseball-Chicago
+Tic-tac-toe game of the most important teams of baseball of Chicago, White Sox and Cubs, in Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
@@ -27,6 +27,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
-# Tic-tac-toe-baseball-Chicago
-Tic-tac-toe game of the most important teams of baseball of Chicago, White Sox and Cubs, in Angular
->>>>>>> 6f3a7dd5d1acaca8ffea673030a56e1d3907f926
+
+
